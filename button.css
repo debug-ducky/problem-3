@@ -1,0 +1,8 @@
+.awesome-button {
+  background-color: green;
+  border: none;
+}
+
+.awesome-button:hover {
+  background-color: yellow;
+}
