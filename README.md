@@ -1,4 +1,4 @@
-# Problem 2
+# Problem 3
 You need to know: HTML, CSS, Javascript
 
 ## Expected Output
@@ -7,4 +7,4 @@ You need to know: HTML, CSS, Javascript
 1. Counter buttons are hoverable and change to yellow when hovered
 
 Please refer to the following diagram:
-![Expected Output](https://github.com/debug-ducky/problem-1/blob/master/doc/expected-output.png)
+![Expected Output](https://github.com/debug-ducky/problem-3/blob/master/doc/expected-output.png)
